@@ -1,0 +1,28 @@
+MAL
+{
+  "m_LayerOverridePriority": 0,
+  "m_IsTrigger": false,
+  "m_ProvidesContacts": false,
+  "m_Enabled": true,
+  "m_Radius": 0.0992,
+  "m_Height": 0.13038424,
+  "m_Direction": 0,
+  "m_Center": {
+    "x": -0.003,
+    "y": -0
+// =====================================================
+-FEMALE
+{
+  "m_LayerOverridePriority": 0,
+  "m_IsTrigger": false,
+  "m_ProvidesContacts": false,
+  "m_Enabled": true,
+  "m_Radius": 0.0991,
+  "m_Height": 0.12749058,
+  "m_Direction": 0,
+  "m_Center": {
+    "x": -0.005,
+    "y": 0.0171,
+    "z": -5.00000000e-4
+  }
+}
